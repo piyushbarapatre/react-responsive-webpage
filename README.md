@@ -4,7 +4,8 @@
 This is a responsive webpage built with React.js, designed to adapt seamlessly across different screen resolutions. The project focuses on creating a smooth and user-friendly interface.
 
 ![Screenshot (32)](https://github.com/user-attachments/assets/75b7de03-3010-4cb0-9256-14c0e88e8055)
-https://github.com/user-attachments/assets/8bd7d679-1f87-432a-a0b7-cfb8a3890403
+
+https://github.com/user-attachments/assets/25547135-2da6-47ff-8981-549185bc1049 
 
 # Key Features
 
