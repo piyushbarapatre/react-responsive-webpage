@@ -19,7 +19,6 @@ https://github.com/user-attachments/assets/25547135-2da6-47ff-8981-549185bc1049
 
 -Fixed Navbar: A responsive fixed navigation bar that stays at the top of the page, providing easy access to navigation links as you scroll.
 
-![Screenshot (34)](https://github.com/user-attachments/assets/d5a71a08-b883-486a-b87e-cb6d11d5540d)
 
 # Technologies Used
 - React.js
